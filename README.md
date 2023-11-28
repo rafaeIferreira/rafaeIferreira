@@ -1,3 +1,8 @@
 ### Rafael Ferreira
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeIferreira&theme=dark&title_color=0f88bf&card_width=500)](https://github.com/rafaeIferreira/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeIferreira&theme=dark&title_color=0f88bf&card_width=500)](https://github.com/rafaeIferreira/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeIferreira" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeIferreira&layout=compact&langs_count=8&card_width=320" />
+</a>
