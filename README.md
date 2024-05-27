@@ -1,10 +1,12 @@
-### Rafael Ferreira 🎄
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f88bf&height=50&section=header"/>
 
-##
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&multiline=true&random=false&width=850&lines=Hello%2C+I'm+Rafael+;Fullstack+Developer" alt="Typing SVG" /></a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeIferreira&title_color=0f88bf&theme=github_dark" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeIferreira&layout=compact&langs_count=8&card_width=320&title_color=0f88bf&theme=github_dark" />
 </a>
